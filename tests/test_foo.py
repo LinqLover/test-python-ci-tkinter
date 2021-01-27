@@ -1,5 +1,6 @@
 from unittest import TestCase
 
+import sys; print(sys.version_info)
 from foo import foo
 
 
